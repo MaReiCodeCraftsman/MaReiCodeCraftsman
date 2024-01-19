@@ -25,7 +25,7 @@ I am a (Freelance) Data Consultant on a mission advising clients on how to creat
   - Tableau
 
 ## Projects
-- **Project types**
+**Project types:**
  - data strategy
  - data unit build up
  - (technical) development steering
