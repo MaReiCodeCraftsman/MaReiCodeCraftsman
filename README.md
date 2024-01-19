@@ -6,17 +6,21 @@ I am a (Freelance) Data Consultant on a mission advising clients on how to creat
 ## About Me
 
 - 🌍 **Location:** Currently based in Munich, Germany
-- 💼 **Role:** Freelance Data Consultant
+- 💼 **Role:** Freelance Data Consultant & Technical Project Manager
 - 🌟 **Interests:** Curious learner of new tools and technologies, reading, friends & family
+- 🌱 **I’m currently learning:** Improving on Cloud infrastructure architecture, AI-application for improved development  
 - 🔍 **Looking For:** Exciting opportunities to collaborate on impactful projects
 
 
 ## Skills
-- **Programming Languages:** Python, SQL
-- **Cloud Technologies:** 
-  - [Google Cloud Platform (GCP)](https://cloud.google.com/)
-  - [Amazon Web Services (AWS)](https://aws.amazon.com/)
+- **Programming Languages:**
+  - Python
+  - SQL
     
+- **Cloud Technologies:** 
+  - GCP
+  - AWS
+        
 - **Other tools:**
   - dbt
   - Airflow
